@@ -10,4 +10,9 @@ E Health Decision Application Web pour predire le risque de tomber diabetique
 
 C'est une application web qui communique avec une application mobile Android a travers des requetes Http afin de lui fournir le modele pour predire le risque de tomber diabetique
 
+----------------------
+# E-Health-Decision
+Application Web to predict the risk of falling diabetic
+
+It is a web application that communicates with an Android mobile application through Http requests in order to provide it with the model to predict the risk of falling diabetic.
 
